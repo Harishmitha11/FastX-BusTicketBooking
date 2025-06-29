@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastX-BusTicketBooking.API", "FastX-BusTicketBooking.API.csproj", "{9EA35EEB-DBAE-43C0-8497-6223C4C23FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastX-BusTicketBooking Tests", "..\FastX-BusTicketBooking\FastX-BusTicketBooking Tests.csproj", "{8CD54C7F-7E82-4794-936C-295C131A508C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA35EEB-DBAE-43C0-8497-6223C4C23FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA35EEB-DBAE-43C0-8497-6223C4C23FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA35EEB-DBAE-43C0-8497-6223C4C23FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA35EEB-DBAE-43C0-8497-6223C4C23FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD54C7F-7E82-4794-936C-295C131A508C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD54C7F-7E82-4794-936C-295C131A508C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD54C7F-7E82-4794-936C-295C131A508C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD54C7F-7E82-4794-936C-295C131A508C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871F2A95-9C4B-4438-A979-FE85EFC24D94}
+	EndGlobalSection
+EndGlobal

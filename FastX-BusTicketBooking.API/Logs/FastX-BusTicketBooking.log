@@ -1,0 +1,428 @@
+2025-06-23 17:04:01,857 [13] INFO  Program - Login attempt: indhu@gmail.com
+2025-06-23 17:04:04,514 [16] INFO  Program - Login successful: indhu@gmail.com, Token issued
+2025-06-23 17:04:25,140 [18] INFO  Program - Fetching all users...
+2025-06-23 17:04:25,200 [13] INFO  Program - Total users fetched: 1
+2025-06-24 12:11:10,036 [16] INFO  Program - Register attempt for email: aparna@gmail.com
+2025-06-24 12:11:11,593 [9] INFO  Program - User registered successfully: aparna@gmail.com, UserId: 12
+2025-06-24 12:11:47,722 [5] INFO  Program - Login attempt: aparna@gmail.com
+2025-06-24 12:11:47,832 [5] INFO  Program - Login successful: aparna@gmail.com, Token issued
+2025-06-24 12:13:25,520 [23] INFO  Program - Fetching all buses...
+2025-06-24 12:13:25,661 [23] INFO  Program - Total buses fetched: 6
+2025-06-24 12:13:55,066 [23] INFO  Program - Fetching bus by ID: 1
+2025-06-24 12:13:55,087 [23] WARN  Program - Bus not found with ID: 1
+2025-06-24 12:13:59,564 [22] INFO  Program - Fetching all buses...
+2025-06-24 12:13:59,574 [3] INFO  Program - Total buses fetched: 6
+2025-06-24 12:15:34,972 [28] INFO  Program - Fetching all buses...
+2025-06-24 12:15:34,978 [28] INFO  Program - Total buses fetched: 6
+2025-06-24 12:16:27,791 [10] INFO  Program - Fetching all buses...
+2025-06-24 12:16:29,151 [19] INFO  Program - Total buses fetched: 6
+2025-06-24 12:16:42,091 [13] INFO  Program - Fetching bus by ID: 103
+2025-06-24 12:16:42,172 [13] INFO  Program - Bus found: BusId=103
+2025-06-24 12:17:15,686 [18] INFO  Program - Fetching all routes...
+2025-06-24 12:17:30,062 [22] INFO  Program - Fetching all routes...
+2025-06-24 12:33:53,083 [22] INFO  Program - Fetching all routes...
+2025-06-24 12:33:53,099 [23] INFO  Program - Total routes retrieved: 7
+2025-06-24 12:34:27,813 [22] INFO  Program - Fetching all buses...
+2025-06-24 12:34:27,820 [24] INFO  Program - Total buses fetched: 6
+2025-06-24 12:34:42,675 [24] INFO  Program - Fetching route by ID: 6
+2025-06-24 12:34:42,686 [17] INFO  Program - Route found: RouteId=6
+2025-06-24 12:35:41,201 [17] INFO  Program - Fetching seats for RouteId: 5
+2025-06-24 12:35:41,210 [17] INFO  Program - Total seats found for RouteId 5: 0
+2025-06-24 12:35:46,215 [17] INFO  Program - Fetching seats for RouteId: 6
+2025-06-24 12:35:46,220 [19] INFO  Program - Total seats found for RouteId 6: 0
+2025-06-24 12:41:37,189 [20] INFO  Program - Fetching all buses...
+2025-06-24 12:41:37,201 [24] INFO  Program - Total buses fetched: 6
+2025-06-24 13:01:38,654 [11] INFO  Program - Login attempt: aparna@gmail.com
+2025-06-24 13:01:40,243 [18] INFO  Program - Login successful: aparna@gmail.com, Token issued
+2025-06-24 13:02:10,246 [9] INFO  Program - Fetching seats for RouteId: 6
+2025-06-24 13:02:10,290 [18] INFO  Program - Total seats found for RouteId 6: 0
+2025-06-24 13:05:59,676 [3] INFO  Program - Register attempt for email: deepika@gmail.com
+2025-06-24 13:06:01,242 [3] INFO  Program - User registered successfully: deepika@gmail.com, UserId: 13
+2025-06-24 13:06:24,855 [16] INFO  Program - Login attempt: deepika@gmail.com
+2025-06-24 13:06:24,968 [16] INFO  Program - Login successful: deepika@gmail.com, Token issued
+2025-06-24 13:13:08,249 [19] INFO  Program - Fetching all bookings
+2025-06-24 13:13:08,403 [19] INFO  Program - Retrieved 1 bookings
+2025-06-24 13:14:00,355 [22] INFO  Program - Fetching booking ID: 1001
+2025-06-24 13:14:06,021 [15] INFO  Program - Fetching booking ID: 1
+2025-06-24 13:14:06,028 [25] WARN  Program - Booking not found: ID=1
+2025-06-24 13:19:20,134 [24] INFO  Program - Fetching all buses...
+2025-06-24 13:19:20,190 [17] INFO  Program - Total buses fetched: 6
+2025-06-24 13:27:59,154 [3] INFO  Program - Attempting to add bus: BusNumber=TN07SF1234
+2025-06-24 13:28:00,617 [3] INFO  Program - Bus added successfully: BusId=108
+2025-06-24 13:34:53,908 [21] INFO  Program - Attempting to update bus: BusId=108
+2025-06-24 13:34:54,048 [21] INFO  Program - Bus updated successfully: BusId=108
+2025-06-24 13:35:12,188 [16] INFO  Program - Attempting to delete bus: BusId=108
+2025-06-24 13:35:12,271 [16] WARN  Program - Bus not found to delete: BusId=108
+2025-06-24 13:35:37,437 [16] INFO  Program - Attempting to delete bus: BusId=107
+2025-06-24 13:35:37,452 [21] INFO  Program - Bus deleted successfully: BusId=107
+2025-06-24 13:38:22,513 [20] INFO  Program - Fetching all users...
+2025-06-24 13:38:22,611 [20] INFO  Program - Total users fetched: 8
+2025-06-24 13:38:35,758 [28] INFO  Program - Fetching user by ID: 3
+2025-06-24 13:38:35,769 [28] INFO  Program - User found: UserId=3
+2025-06-24 13:38:51,370 [28] INFO  Program - Attempting to delete user: UserId=3
+2025-06-24 13:38:51,390 [28] INFO  Program - User deleted successfully: UserId=3
+2025-06-24 14:12:35,743 [19] INFO  Program - Login attempt: deepika@gmail.com
+2025-06-24 14:12:37,128 [21] INFO  Program - Login successful: deepika@gmail.com, Token issued
+2025-06-24 14:14:40,514 [21] INFO  Program - Fetching all refund records...
+2025-06-24 14:14:40,552 [25] INFO  Program - Total refunds found: 0
+2025-06-24 14:14:53,608 [3] INFO  Program - Fetching refund by BookingId: 1001
+2025-06-24 14:14:53,690 [21] WARN  Program - Refund not found for BookingId: 1001
+2025-06-24 14:15:08,509 [23] INFO  Program - Fetching all routes...
+2025-06-24 14:15:08,532 [23] INFO  Program - Total routes retrieved: 7
+2025-06-24 14:15:20,041 [21] INFO  Program - Fetching route by ID: 6
+2025-06-24 14:15:20,050 [21] INFO  Program - Route found: RouteId=6
+2025-06-24 14:16:03,352 [25] INFO  Program - Attempting to add route: Origin=Chennai, Destination=Tiruppur
+2025-06-24 14:16:03,635 [24] INFO  Program - Route added successfully: RouteId=11
+2025-06-24 14:16:15,755 [25] INFO  Program - Fetching all routes...
+2025-06-24 14:16:15,764 [24] INFO  Program - Total routes retrieved: 8
+2025-06-24 14:17:01,217 [25] INFO  Program - Attempting to update route: RouteId=11
+2025-06-24 14:17:01,234 [25] INFO  Program - Route updated successfully: RouteId=11
+2025-06-24 14:17:22,512 [30] INFO  Program - Attempting to delete route: RouteId=11
+2025-06-24 14:17:22,522 [28] INFO  Program - Route deleted successfully: RouteId=11
+2025-06-24 14:17:40,646 [25] INFO  Program - Fetching seats for RouteId: 11
+2025-06-24 14:17:40,657 [25] INFO  Program - Total seats found for RouteId 11: 50
+2025-06-24 14:21:09,646 [11] INFO  Program - Login attempt: deepika@gmail.com
+2025-06-24 14:21:11,119 [5] INFO  Program - Login successful: deepika@gmail.com, Token issued
+2025-06-24 14:22:12,149 [14] INFO  Program - Fetching seats for RouteId: 11
+2025-06-24 14:22:12,183 [14] WARN  Program - Route ID 11 is either not found or marked as deleted.
+2025-06-24 14:22:56,879 [18] INFO  Program - Booking request received for RouteId: 11, Seat Count: 2
+2025-06-24 14:22:57,078 [19] INFO  Program - 2 seats booked successfully for RouteId 11
+2025-06-24 14:31:26,605 [14] INFO  Program - Login attempt: aparna@gmail.com
+2025-06-24 14:31:28,100 [20] INFO  Program - Login successful: aparna@gmail.com, Token issued
+2025-06-24 14:32:03,672 [15] INFO  Program - Booking request received for RouteId: 11, Seat Count: 2
+2025-06-24 14:32:03,713 [20] WARN  Program - Route ID 11 is either not found or marked as deleted.
+2025-06-24 14:35:00,660 [11] INFO  Program - Login attempt: aparna@gmail.com
+2025-06-24 14:35:02,118 [16] WARN  Program - Login failed for email: aparna@gmail.com
+2025-06-24 14:35:27,935 [16] INFO  Program - Login attempt: aparna@gmail.com
+2025-06-24 14:35:27,975 [3] INFO  Program - Login successful: aparna@gmail.com, Token issued
+2025-06-24 14:37:18,166 [10] INFO  Program - Login attempt: aparna@gmail.com
+2025-06-24 14:37:19,500 [18] INFO  Program - Login successful: aparna@gmail.com, Token issued
+2025-06-24 14:37:45,042 [11] INFO  Program - Fetching all buses...
+2025-06-24 14:37:45,138 [20] INFO  Program - Total buses fetched: 5
+2025-06-24 14:38:22,563 [18] INFO  Program - Fetching all routes...
+2025-06-24 14:38:22,616 [18] INFO  Program - Total routes retrieved: 7
+2025-06-24 14:41:42,986 [22] INFO  Program - Booking request: UserId=4, RouteId=6, Seats=2
+2025-06-24 14:41:42,988 [22] INFO  Program - Booking request received for RouteId: 6, Seat Count: 2
+2025-06-24 14:41:43,010 [25] WARN  Program - Not enough seats available for RouteId 6. Requested: 2, Available: 0
+2025-06-24 14:41:43,010 [25] WARN  Program - Insufficient seats for RouteId=6
+2025-06-24 14:44:53,600 [25] INFO  Program - Login attempt: deepika@gmail.com
+2025-06-24 14:44:53,609 [25] INFO  Program - Login successful: deepika@gmail.com, Token issued
+2025-06-24 14:46:37,969 [26] INFO  Program - Attempting to update route: RouteId=11
+2025-06-24 14:46:38,091 [28] INFO  Program - Route updated successfully: RouteId=11
+2025-06-24 14:46:54,358 [30] INFO  Program - Login attempt: aparna@gmail.com
+2025-06-24 14:46:54,364 [30] INFO  Program - Login successful: aparna@gmail.com, Token issued
+2025-06-24 14:47:26,157 [26] INFO  Program - Booking request: UserId=4, RouteId=11, Seats=2
+2025-06-24 14:47:26,158 [26] INFO  Program - Booking request received for RouteId: 11, Seat Count: 2
+2025-06-24 14:47:26,198 [26] INFO  Program - 2 seats booked successfully for RouteId 11
+2025-06-24 14:47:26,356 [26] ERROR Program - Error while booking ticket
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Bookings__UserId__571DF1D5". The conflict occurred in database "FastX_BusTicketBooking", table "dbo.Users", column 'UserId'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:4d5d1399-50c7-4c85-b71a-ac4d2d48c3e3
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at FastX_BusTicketBooking.API.Services.Implementations.BookingService.BookTicket(BookingDTO bookingDTO) in C:\FastX-BusTicketBooking\FastX-BusTicketBooking.API\Services\Implementations\BookingService.cs:line 45
+2025-06-24 14:48:56,111 [32] INFO  Program - Booking request: UserId=7, RouteId=11, Seats=2
+2025-06-24 14:48:56,111 [32] INFO  Program - Booking request received for RouteId: 11, Seat Count: 2
+2025-06-24 14:48:56,126 [32] INFO  Program - 2 seats booked successfully for RouteId 11
+2025-06-24 14:48:56,158 [32] INFO  Program - Booking successful: BookingId=1004, UserId=7, Seats=2
+2025-06-24 14:49:43,162 [31] INFO  Program - Attempting to cancel booking ID: 1004
+2025-06-24 14:49:43,174 [33] INFO  Program - Booking cancelled: ID=1004
+2025-06-24 14:49:48,682 [36] INFO  Program - Fetching bookings for UserId: 12
+2025-06-24 14:49:48,693 [36] INFO  Program - User 12 has 0 bookings
+2025-06-24 14:50:08,020 [36] INFO  Program - Booking request: UserId=7, RouteId=11, Seats=2
+2025-06-24 14:50:08,021 [36] INFO  Program - Booking request received for RouteId: 11, Seat Count: 2
+2025-06-24 14:50:08,035 [37] INFO  Program - 2 seats booked successfully for RouteId 11
+2025-06-24 14:50:08,046 [37] INFO  Program - Booking successful: BookingId=1005, UserId=7, Seats=2
+2025-06-24 14:50:17,894 [36] INFO  Program - Fetching bookings for UserId: 12
+2025-06-24 14:50:17,910 [36] INFO  Program - User 12 has 0 bookings
+2025-06-24 14:51:41,624 [37] INFO  Program - Cancelling selected seats for BookingId=1004
+2025-06-24 14:51:41,688 [37] WARN  Program - Some seats were invalid or already cancelled.
+2025-06-24 14:51:50,665 [32] INFO  Program - Cancelling selected seats for BookingId=1004
+2025-06-24 14:51:50,668 [35] WARN  Program - Some seats were invalid or already cancelled.
+2025-06-24 14:52:09,038 [35] INFO  Program - Cancelling selected seats for BookingId=1005
+2025-06-24 14:52:09,042 [32] WARN  Program - Some seats were invalid or already cancelled.
+2025-06-24 14:52:14,242 [36] INFO  Program - Cancelling selected seats for BookingId=1005
+2025-06-24 14:52:14,255 [37] INFO  Program - Cancelled 1 seat(s) successfully for BookingId=1005
+2025-06-24 14:52:52,983 [32] INFO  Program - Fetching bus by ID: 103
+2025-06-24 14:52:53,000 [32] INFO  Program - Bus found: BusId=103
+2025-06-24 14:57:59,024 [27] INFO  Program - Login attempt: deepika@gmail.com
+2025-06-24 14:57:59,032 [30] INFO  Program - Login successful: deepika@gmail.com, Token issued
+2025-06-24 14:58:26,391 [27] INFO  Program - Refund request received: BookingId=1005, Amount=800, ProcessedBy=7
+2025-06-24 14:58:26,412 [27] INFO  Program - Refund processed successfully: BookingId=1005, RefundId=2
+2025-06-24 14:58:40,136 [28] INFO  Program - Refund request received: BookingId=1004, Amount=800, ProcessedBy=7
+2025-06-24 14:58:40,142 [27] INFO  Program - Refund processed successfully: BookingId=1004, RefundId=3
+2025-06-24 14:58:53,760 [26] INFO  Program - Refund request received: BookingId=1003, Amount=800, ProcessedBy=7
+2025-06-24 14:58:53,775 [28] WARN  Program - Refund failed: Invalid BookingId=1003
+2025-06-24 15:26:03,217 [21] INFO  Program - Login attempt: aparna@gmail.com
+2025-06-24 15:26:04,227 [19] INFO  Program - Login successful: aparna@gmail.com, Token issued
+2025-06-24 15:27:09,658 [21] INFO  Program - Fetching all buses...
+2025-06-24 15:27:09,732 [21] INFO  Program - Total buses fetched: 5
+2025-06-24 15:27:21,387 [3] INFO  Program - Fetching all routes...
+2025-06-24 15:27:21,431 [22] INFO  Program - Total routes retrieved: 8
+2025-06-24 15:28:49,825 [3] INFO  Program - Booking request: UserId=7, RouteId=11, Seats=2
+2025-06-24 15:28:49,827 [3] INFO  Program - Booking request received for RouteId: 11, Seat Count: 2
+2025-06-24 15:28:49,934 [27] INFO  Program - 2 seats booked successfully for RouteId 11
+2025-06-24 15:28:50,006 [27] INFO  Program - Booking successful: BookingId=1006, UserId=7, Seats=2
+2025-06-24 15:29:42,277 [27] INFO  Program - Attempting to cancel booking ID: 1002
+2025-06-24 15:29:42,291 [28] WARN  Program - Booking not found: ID=1002
+2025-06-24 15:29:53,846 [29] INFO  Program - Fetching bookings for UserId: 12
+2025-06-24 15:29:53,860 [21] INFO  Program - User 12 has 0 bookings
+2025-06-24 15:30:47,908 [27] INFO  Program - Cancelling selected seats for BookingId=1006
+2025-06-24 15:30:47,956 [27] WARN  Program - Some seats were invalid or already cancelled.
+2025-06-24 15:30:58,097 [31] INFO  Program - Cancelling selected seats for BookingId=1006
+2025-06-24 15:30:58,126 [25] INFO  Program - Cancelled 1 seat(s) successfully for BookingId=1006
+2025-06-25 13:34:21,829 [3] INFO  Program - Register attempt for email: user@gmail.com
+2025-06-25 13:34:23,915 [9] INFO  Program - User registered successfully: user@gmail.com, UserId: 14
+2025-06-26 22:16:25,959 [20] INFO  Program - Register attempt for email: admin@gmail.com
+2025-06-26 22:16:27,596 [20] INFO  Program - User registered successfully: admin@gmail.com, UserId: 15
+2025-06-26 22:18:13,199 [10] INFO  Program - Login attempt: admin@gmail.com
+2025-06-26 22:18:15,840 [16] INFO  Program - Login successful: admin@gmail.com, Token issued
+2025-06-26 22:20:18,813 [20] INFO  Program - Fetching all bookings
+2025-06-26 22:20:18,963 [16] INFO  Program - Retrieved 4 bookings
+2025-06-26 22:20:40,896 [22] INFO  Program - Fetching booking ID: 1001
+2025-06-26 22:22:48,679 [21] INFO  Program - Fetching all buses...
+2025-06-26 22:22:48,797 [26] INFO  Program - Total buses fetched: 5
+2025-06-26 22:23:24,592 [27] INFO  Program - Fetching bus by ID: 103
+2025-06-26 22:23:24,635 [27] INFO  Program - Bus found: BusId=103
+2025-06-26 22:26:05,511 [26] INFO  Program - Attempting to add bus: BusNumber=TN22AB7890
+2025-06-26 22:26:05,814 [30] INFO  Program - Bus added successfully: BusId=109
+2025-06-26 22:26:20,778 [25] INFO  Program - Fetching all buses...
+2025-06-26 22:26:20,794 [27] INFO  Program - Total buses fetched: 6
+2025-06-26 22:27:23,174 [27] INFO  Program - Attempting to update bus: BusId=109
+2025-06-26 22:27:23,316 [27] ERROR Program - Error updating bus: BusId=109
+System.InvalidOperationException: The property 'Bus.BusId' is part of a key and so cannot be modified or marked as modified. To change the principal of an existing entity with an identifying foreign key, first delete the dependent and invoke 'SaveChanges', and then associate the dependent with the new principal.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetPropertyModified(IProperty property, Boolean changeState, Boolean isModified, Boolean isConceptualNull, Boolean acceptChanges)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.ChangeDetector.DetectValueChange(InternalEntityEntry entry, IProperty property)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.ChangeDetector.LocalDetectChanges(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.ChangeDetector.DetectChanges(IStateManager stateManager)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.ChangeTracker.DetectChanges()
+   at Microsoft.EntityFrameworkCore.DbContext.TryDetectChanges()
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at FastX_BusTicketBooking.API.Services.Implementations.BusService.UpdateBus(Int32 id, BusDTO busDTO) in C:\FastX-BusTicketBooking\FastX-BusTicketBooking.API\Services\Implementations\BusService.cs:line 111
+2025-06-26 22:27:35,208 [31] INFO  Program - Attempting to update bus: BusId=109
+2025-06-26 22:27:35,241 [32] INFO  Program - Bus updated successfully: BusId=109
+2025-06-26 22:27:47,674 [32] INFO  Program - Fetching all buses...
+2025-06-26 22:27:47,682 [31] INFO  Program - Total buses fetched: 6
+2025-06-26 22:35:02,293 [31] INFO  Program - Attempting to delete bus: BusId=106
+2025-06-26 22:35:02,320 [25] INFO  Program - Bus deleted successfully: BusId=106
+2025-06-26 22:35:08,183 [26] INFO  Program - Fetching all buses...
+2025-06-26 22:35:08,201 [25] INFO  Program - Total buses fetched: 5
+2025-06-27 06:59:16,053 [3] INFO  Program - Login attempt: admin@gmail.com
+2025-06-27 06:59:17,800 [3] INFO  Program - Login successful: admin@gmail.com, Token issued
+2025-06-27 07:00:16,903 [17] INFO  Program - Fetching all payments...
+2025-06-27 07:00:16,946 [17] INFO  Program - Fetched 2 payments.
+2025-06-27 07:05:07,515 [20] INFO  Program - Fetching refund by BookingId: 1005
+2025-06-27 07:05:07,618 [20] INFO  Program - Refund record found for BookingId: 1005, RefundId: 2
+2025-06-27 07:06:22,655 [19] INFO  Program - Fetching payment by BookingId=1005
+2025-06-27 07:06:22,676 [19] INFO  Program - Payment found: PaymentId=3
+2025-06-27 07:16:32,872 [15] INFO  Program - Login attempt: admin@gmail.com
+2025-06-27 07:16:34,473 [5] INFO  Program - Login successful: admin@gmail.com, Token issued
+2025-06-28 13:56:57,459 [3] INFO  Program - Register attempt for email: admin2@gmail.com
+2025-06-28 13:56:59,667 [3] INFO  Program - User registered successfully: admin2@gmail.com, UserId: 16
+2025-06-28 13:58:03,290 [3] INFO  Program - Login attempt: admin2@gmail.com
+2025-06-28 13:58:03,450 [3] INFO  Program - Login successful: admin2@gmail.com, Token issued
+2025-06-28 14:00:20,020 [19] INFO  Program - Fetching all bookings
+2025-06-28 14:00:20,145 [19] INFO  Program - Retrieved 4 bookings
+2025-06-28 14:01:29,752 [25] INFO  Program - Fetching booking ID: 1005
+2025-06-28 14:02:46,455 [3] INFO  Program - Fetching all buses...
+2025-06-28 14:02:46,557 [3] INFO  Program - Total buses fetched: 5
+2025-06-28 14:03:00,401 [26] INFO  Program - Fetching bus by ID: 106
+2025-06-28 14:03:00,436 [30] WARN  Program - Bus not found with ID: 106
+2025-06-28 14:03:25,801 [26] INFO  Program - Fetching all buses...
+2025-06-28 14:03:25,825 [26] INFO  Program - Total buses fetched: 5
+2025-06-28 14:06:58,011 [30] INFO  Program - Fetching booking ID: 1006
+2025-06-28 14:07:02,169 [32] INFO  Program - Fetching booking ID: 100
+2025-06-28 14:07:02,174 [30] WARN  Program - Booking not found: ID=100
+2025-06-28 14:14:54,399 [13] INFO  Program - Fetching bus by ID: 106
+2025-06-28 14:14:56,089 [9] WARN  Program - Bus not found with ID: 106
+2025-06-28 14:16:11,311 [14] INFO  Program - Attempting to add bus: BusNumber=TN10AX1234
+2025-06-28 14:16:11,382 [9] WARN  Program - Bus already exists with BusNumber=TN10AX1234
+2025-06-28 14:16:24,535 [20] INFO  Program - Attempting to add bus: BusNumber=TN10AX1224
+2025-06-28 14:16:24,782 [20] INFO  Program - Bus added successfully: BusId=110
+2025-06-28 14:16:39,269 [19] INFO  Program - Fetching all buses...
+2025-06-28 14:16:39,326 [14] INFO  Program - Total buses fetched: 6
+2025-06-28 14:17:12,814 [19] INFO  Program - Attempting to update bus: BusId=110
+2025-06-28 14:17:12,853 [21] INFO  Program - Bus updated successfully: BusId=110
+2025-06-28 14:17:21,991 [21] INFO  Program - Attempting to delete bus: BusId=101
+2025-06-28 14:17:21,999 [21] WARN  Program - Bus not found to delete: BusId=101
+2025-06-28 14:17:29,925 [19] INFO  Program - Attempting to delete bus: BusId=110
+2025-06-28 14:17:29,938 [20] INFO  Program - Bus deleted successfully: BusId=110
+2025-06-28 14:17:58,299 [20] INFO  Program - Fetching all payments...
+2025-06-28 14:17:58,323 [20] INFO  Program - Fetched 2 payments.
+2025-06-28 14:18:39,528 [24] INFO  Program - Fetching refund by BookingId: 1006
+2025-06-28 14:18:39,559 [3] WARN  Program - Refund not found for BookingId: 1006
+2025-06-28 14:19:30,988 [22] INFO  Program - Fetching refund by BookingId: 1006
+2025-06-28 14:19:30,995 [22] WARN  Program - Refund not found for BookingId: 1006
+2025-06-28 14:19:47,216 [22] INFO  Program - Fetching payment by BookingId=1006
+2025-06-28 14:19:47,225 [22] INFO  Program - Payment found: PaymentId=4
+2025-06-28 14:19:53,598 [23] INFO  Program - Fetching payment by BookingId=1005
+2025-06-28 14:19:53,602 [22] INFO  Program - Payment found: PaymentId=3
+2025-06-28 14:20:57,611 [22] INFO  Program - Refund request received: BookingId=100, Amount=999999.99, ProcessedBy=16
+2025-06-28 14:20:57,621 [22] WARN  Program - Refund failed: Invalid BookingId=100
+2025-06-28 14:21:06,091 [27] INFO  Program - Refund request received: BookingId=1006, Amount=999999.99, ProcessedBy=16
+2025-06-28 14:21:06,188 [28] INFO  Program - Refund processed successfully: RefundId=4
+2025-06-28 14:21:26,585 [22] INFO  Program - Fetching payment by BookingId=1006
+2025-06-28 14:21:26,591 [22] INFO  Program - Payment found: PaymentId=4
+2025-06-28 14:21:44,620 [28] INFO  Program - Fetching booking ID: 1006
+2025-06-28 14:26:32,511 [28] INFO  Program - Fetching seats for RouteId: 11
+2025-06-28 14:26:32,550 [27] INFO  Program - Total seats found for RouteId 11: 50
+2025-06-28 14:35:45,606 [25] INFO  Program - Fetching all refund records...
+2025-06-28 14:35:45,639 [26] INFO  Program - Total refunds found: 3
+2025-06-28 14:43:15,080 [16] INFO  Program - Fetching refund by BookingId: 1006
+2025-06-28 14:43:15,086 [16] INFO  Program - Refund found: RefundId=4
+2025-06-28 14:43:28,401 [22] INFO  Program - Fetching all routes...
+2025-06-28 14:43:28,411 [16] INFO  Program - Total routes retrieved: 8
+2025-06-28 14:43:40,318 [16] INFO  Program - Fetching route by ID: 6
+2025-06-28 14:43:40,327 [16] INFO  Program - Route found: RouteId=6
+2025-06-28 14:45:26,324 [21] INFO  Program - Attempting to add route: Origin=Chennai, Destination=Salem
+2025-06-28 14:45:26,448 [21] INFO  Program - Route added successfully: RouteId=12
+2025-06-28 14:45:38,217 [21] INFO  Program - Fetching all routes...
+2025-06-28 14:45:38,223 [16] INFO  Program - Total routes retrieved: 9
+2025-06-28 14:46:20,868 [14] INFO  Program - Attempting to update route: RouteId=12
+2025-06-28 14:46:20,884 [14] INFO  Program - Route updated successfully: RouteId=12
+2025-06-28 14:46:30,269 [10] INFO  Program - Attempting to delete route: RouteId=11
+2025-06-28 14:46:30,280 [10] INFO  Program - Route deleted successfully: RouteId=11
+2025-06-28 14:46:35,201 [17] INFO  Program - Attempting to delete route: RouteId=1
+2025-06-28 14:46:35,215 [17] WARN  Program - Route not found to delete: RouteId=1
+2025-06-28 14:46:57,684 [17] INFO  Program - Fetching seats for RouteId: 11
+2025-06-28 14:46:57,697 [14] WARN  Program - Route ID 11 not found or marked as deleted.
+2025-06-28 14:47:02,502 [20] INFO  Program - Fetching seats for RouteId: 12
+2025-06-28 14:47:02,515 [10] INFO  Program - Total seats found for RouteId 12: 40
+2025-06-28 14:47:15,557 [10] INFO  Program - Booking request received: RouteId=12, RequestedSeats=2
+2025-06-28 14:47:15,607 [14] INFO  Program - 2 seat(s) booked successfully for RouteId=12
+2025-06-28 14:47:34,708 [10] INFO  Program - Fetching all users...
+2025-06-28 14:47:34,735 [10] INFO  Program - Total users fetched: 10
+2025-06-28 14:47:46,044 [17] INFO  Program - Fetching user by ID: 16
+2025-06-28 14:47:46,061 [17] INFO  Program - User found: UserId=16
+2025-06-28 14:48:03,501 [10] INFO  Program - Attempting to delete user: UserId=7
+2025-06-28 14:48:03,526 [20] INFO  Program - User deleted successfully: UserId=7
+2025-06-28 14:48:08,821 [10] INFO  Program - Attempting to delete user: UserId=1
+2025-06-28 14:48:08,826 [14] WARN  Program - User not found to delete: UserId=1
+2025-06-28 14:49:45,511 [10] INFO  Program - Login attempt: user@gmail.com
+2025-06-28 14:49:45,532 [10] INFO  Program - Login successful: user@gmail.com, Token issued
+2025-06-28 14:51:30,762 [32] INFO  Program - Booking request: UserId=14, RouteId=12, Seats=1
+2025-06-28 14:51:30,770 [32] INFO  Program - Booking request received: RouteId=12, RequestedSeats=1
+2025-06-28 14:51:30,786 [32] INFO  Program - 1 seat(s) booked successfully for RouteId=12
+2025-06-28 14:51:30,803 [32] INFO  Program - Booking successful: BookingId=1007
+2025-06-28 14:52:40,561 [33] INFO  Program - Fetching bookings for UserId: 14
+2025-06-28 14:52:40,574 [36] INFO  Program - User 14 has 1 bookings
+2025-06-28 14:52:49,872 [36] INFO  Program - Fetching booking ID: 13
+2025-06-28 14:52:49,879 [36] WARN  Program - Booking not found: ID=13
+2025-06-28 14:56:27,467 [7] INFO  Program - Fetching bookings for UserId: 14
+2025-06-28 14:56:29,200 [14] INFO  Program - User 14 has 1 bookings
+2025-06-28 14:56:36,333 [14] INFO  Program - Fetching booking ID: 13
+2025-06-28 14:56:36,378 [13] WARN  Program - Booking not found: ID=13
+2025-06-28 15:13:18,449 [18] INFO  Program - Login attempt: user@gmail.com
+2025-06-28 15:13:19,456 [19] INFO  Program - Login successful: user@gmail.com, Token issued
+2025-06-28 15:13:57,593 [19] INFO  Program - Fetching booking ID: 13
+2025-06-28 15:13:57,622 [19] WARN  Program - Booking not found: ID=13
+2025-06-28 15:14:16,529 [18] INFO  Program - Fetching bookings for UserId: 14
+2025-06-28 15:14:16,600 [19] INFO  Program - User 14 has 1 bookings
+2025-06-28 15:14:26,695 [19] INFO  Program - Fetching booking ID: 1008
+2025-06-28 15:14:26,706 [22] WARN  Program - Booking not found: ID=1008
+2025-06-28 15:14:39,712 [15] INFO  Program - Fetching booking ID: 1006
+2025-06-28 15:15:44,867 [18] INFO  Program - Fetching booking ID: 1006
+2025-06-28 15:16:00,300 [24] INFO  Program - Fetching booking ID: 1007
+2025-06-28 15:16:00,308 [19] INFO  Program - Cancelling selected seats for BookingId=1007
+2025-06-28 15:16:00,369 [19] WARN  Program - Some seats were invalid or already cancelled.
+2025-06-28 15:16:54,590 [3] INFO  Program - Fetching booking ID: 1007
+2025-06-28 15:16:54,598 [3] INFO  Program - Cancelling selected seats for BookingId=1007
+2025-06-28 15:16:54,716 [25] INFO  Program - Cancelled 1 seat(s) for BookingId=1007
+2025-06-28 15:17:28,868 [24] INFO  Program - Booking request: UserId=14, RouteId=12, Seats=2
+2025-06-28 15:17:28,886 [24] INFO  Program - Booking request received: RouteId=12, RequestedSeats=2
+2025-06-28 15:17:28,912 [28] INFO  Program - 2 seat(s) booked successfully for RouteId=12
+2025-06-28 15:17:28,970 [28] INFO  Program - Booking successful: BookingId=1008
+2025-06-28 15:22:48,229 [7] INFO  Program - Booking request: UserId=14, RouteId=12, Seats=2
+2025-06-28 15:22:49,831 [20] INFO  Program - Booking request received: RouteId=12, RequestedSeats=2
+2025-06-28 15:22:50,054 [21] INFO  Program - 2 seat(s) booked successfully for RouteId=12
+2025-06-28 15:22:50,238 [21] INFO  Program - Booking successful: BookingId=1009
+2025-06-28 15:22:57,763 [24] INFO  Program - Fetching bookings for UserId: 14
+2025-06-28 15:22:57,858 [24] INFO  Program - User 14 has 3 bookings
+2025-06-28 15:23:47,304 [20] INFO  Program - Fetching booking ID: 1008
+2025-06-28 15:23:47,408 [20] INFO  Program - Attempting to cancel booking ID: 1008
+2025-06-28 15:23:47,429 [20] INFO  Program - Booking cancelled: ID=1008
+2025-06-28 15:24:03,511 [7] INFO  Program - Fetching all buses...
+2025-06-28 15:24:03,585 [7] INFO  Program - Total buses fetched: 5
+2025-06-28 15:24:18,791 [24] INFO  Program - Fetching bus by ID: 1007
+2025-06-28 15:24:18,813 [20] WARN  Program - Bus not found with ID: 1007
+2025-06-28 15:24:25,337 [25] INFO  Program - Fetching bus by ID: 1008
+2025-06-28 15:24:25,347 [7] WARN  Program - Bus not found with ID: 1008
+2025-06-28 15:24:30,644 [25] INFO  Program - Fetching bus by ID: 1004
+2025-06-28 15:24:30,650 [20] WARN  Program - Bus not found with ID: 1004
+2025-06-28 15:24:35,049 [25] INFO  Program - Fetching bus by ID: 1005
+2025-06-28 15:24:35,053 [24] WARN  Program - Bus not found with ID: 1005
+2025-06-28 15:24:40,431 [7] INFO  Program - Fetching bus by ID: 1006
+2025-06-28 15:24:40,445 [24] WARN  Program - Bus not found with ID: 1006
+2025-06-28 15:24:47,106 [24] INFO  Program - Fetching bus by ID: 1009
+2025-06-28 15:24:47,120 [7] WARN  Program - Bus not found with ID: 1009
+2025-06-28 15:25:07,402 [24] INFO  Program - Fetching bus by ID: 12
+2025-06-28 15:25:07,436 [7] WARN  Program - Bus not found with ID: 12
+2025-06-28 15:25:12,497 [7] INFO  Program - Fetching bus by ID: 4
+2025-06-28 15:25:12,502 [24] WARN  Program - Bus not found with ID: 4
+2025-06-28 15:25:17,747 [26] INFO  Program - Fetching all buses...
+2025-06-28 15:25:17,758 [26] INFO  Program - Total buses fetched: 5
+2025-06-28 15:25:25,192 [7] INFO  Program - Fetching bus by ID: 102
+2025-06-28 15:25:25,197 [26] INFO  Program - Bus found: BusId=102
+2025-06-28 15:28:11,847 [26] INFO  Program - Processing payment: BookingId=1008, Amount=2000
+2025-06-28 15:28:11,911 [28] INFO  Program - Payment successful: PaymentId=5
+2025-06-28 15:28:32,387 [29] INFO  Program - Processing payment: BookingId=1007, Amount=2000
+2025-06-28 15:28:32,401 [26] INFO  Program - Payment successful: PaymentId=6
+2025-06-28 15:28:36,872 [29] INFO  Program - Processing payment: BookingId=1007, Amount=2000
+2025-06-28 15:28:36,880 [26] WARN  Program - Duplicate payment attempt: BookingId=1007
+2025-06-28 15:30:18,849 [29] INFO  Program - Fetching payment by BookingId=1009
+2025-06-28 15:30:18,856 [29] WARN  Program - No payment found for BookingId=1009
+2025-06-28 15:30:25,209 [3] INFO  Program - Fetching payment by BookingId=1008
+2025-06-28 15:30:25,213 [3] INFO  Program - Payment found: PaymentId=5
+2025-06-28 15:31:19,604 [24] INFO  Program - Fetching refund by BookingId: 1008
+2025-06-28 15:31:19,622 [25] WARN  Program - Refund not found for BookingId: 1008
+2025-06-28 15:32:28,478 [28] INFO  Program - Fetching refund by BookingId: 1007
+2025-06-28 15:32:28,484 [24] WARN  Program - Refund not found for BookingId: 1007
+2025-06-28 15:32:58,033 [28] INFO  Program - Fetching payment by BookingId=1009
+2025-06-28 15:32:58,036 [24] WARN  Program - No payment found for BookingId=1009
+2025-06-28 17:21:45,925 [13] INFO  Program - Login attempt: user@gmail.com
+2025-06-28 17:21:48,826 [13] INFO  Program - Login successful: user@gmail.com, Token issued
+2025-06-28 17:22:37,419 [16] INFO  Program - Fetching payment by BookingId=1009
+2025-06-28 17:22:37,440 [22] WARN  Program - No payment found for BookingId=1009
+2025-06-28 17:22:59,858 [19] INFO  Program - Fetching payment by BookingId=1008
+2025-06-28 17:22:59,890 [19] INFO  Program - Payment found: PaymentId=5
+2025-06-28 17:23:04,927 [16] INFO  Program - Fetching payment by BookingId=1007
+2025-06-28 17:23:04,935 [23] INFO  Program - Payment found: PaymentId=6
+2025-06-28 17:23:19,716 [23] INFO  Program - Fetching payment by BookingId=1009
+2025-06-28 17:23:19,723 [22] WARN  Program - No payment found for BookingId=1009
+2025-06-28 17:44:39,198 [13] INFO  Program - Login attempt: user@gmail.com
+2025-06-28 17:44:41,973 [10] INFO  Program - Login successful: user@gmail.com, Token issued
+2025-06-28 17:45:14,318 [20] INFO  Program - Fetching payment by BookingId=1009
+2025-06-28 17:45:14,336 [20] WARN  Program - No payment found for BookingId=1009
+2025-06-28 17:45:35,642 [20] INFO  Program - Fetching refund by BookingId: 1009
+2025-06-28 17:45:35,680 [20] WARN  Program - Refund not found for BookingId: 1009
+2025-06-28 17:46:22,885 [19] INFO  Program - Fetching all routes...
+2025-06-28 17:46:22,948 [21] INFO  Program - Total routes retrieved: 8
+2025-06-28 17:46:30,516 [20] INFO  Program - Fetching route by ID: 3
+2025-06-28 17:46:30,539 [21] INFO  Program - Route found: RouteId=3
+2025-06-28 17:47:08,283 [22] INFO  Program - Searching routes: Origin=Chennai, Destination=Bangalore, Date=2025-06-22
+2025-06-28 17:47:08,381 [22] INFO  Program - Search complete. Routes found: 1
+2025-06-28 17:47:14,791 [24] INFO  Program - Searching routes: Origin=Chennai, Destination=Bangalore, Date=2025-06-24
+2025-06-28 17:47:14,804 [21] INFO  Program - Search complete. Routes found: 0

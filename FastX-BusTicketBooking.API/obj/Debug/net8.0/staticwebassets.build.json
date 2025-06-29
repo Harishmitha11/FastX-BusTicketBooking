@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "KNFY0O4ujv6L5aCTqzIMgybXsBEYM0Vc0ew8rVjDA0w=",
+  "Source": "FastX-BusTicketBooking.API",
+  "BasePath": "_content/FastX-BusTicketBooking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD54C7F-7E82-4794-936C-295C131A508C}|..\\FastX-BusTicketBooking\\FastX-BusTicketBooking Tests.csproj|c:\\fastx-busticketbooking\\fastx-busticketbooking\\services\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD54C7F-7E82-4794-936C-295C131A508C}|..\\FastX-BusTicketBooking\\FastX-BusTicketBooking Tests.csproj|c:\\fastx-busticketbooking\\fastx-busticketbooking\\services\\bookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD54C7F-7E82-4794-936C-295C131A508C}|..\\FastX-BusTicketBooking\\FastX-BusTicketBooking Tests.csproj|c:\\fastx-busticketbooking\\fastx-busticketbooking\\services\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD54C7F-7E82-4794-936C-295C131A508C}|..\\FastX-BusTicketBooking\\FastX-BusTicketBooking Tests.csproj|c:\\fastx-busticketbooking\\fastx-busticketbooking\\services\\routeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD54C7F-7E82-4794-936C-295C131A508C}|..\\FastX-BusTicketBooking\\FastX-BusTicketBooking Tests.csproj|c:\\fastx-busticketbooking\\fastx-busticketbooking\\services\\seatservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD54C7F-7E82-4794-936C-295C131A508C}|..\\FastX-BusTicketBooking\\FastX-BusTicketBooking Tests.csproj|c:\\fastx-busticketbooking\\fastx-busticketbooking\\services\\refundservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD54C7F-7E82-4794-936C-295C131A508C}|..\\FastX-BusTicketBooking\\FastX-BusTicketBooking Tests.csproj|c:\\fastx-busticketbooking\\fastx-busticketbooking\\services\\paymentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD54C7F-7E82-4794-936C-295C131A508C}|..\\FastX-BusTicketBooking\\FastX-BusTicketBooking Tests.csproj|c:\\fastx-busticketbooking\\fastx-busticketbooking\\services\\busservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FastX-BusTicketBooking\\Services\\AuthServiceTests.cs",
+              "ToolTip": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\AuthServiceTests.cs",
+              "RelativeToolTip": "..\\FastX-BusTicketBooking\\Services\\AuthServiceTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:23:02.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FastX-BusTicketBooking\\Services\\UserServiceTests.cs",
+              "ToolTip": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\UserServiceTests.cs",
+              "RelativeToolTip": "..\\FastX-BusTicketBooking\\Services\\UserServiceTests.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:09:53.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteServiceTests.cs",
+              "DocumentMoniker": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\RouteServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FastX-BusTicketBooking\\Services\\RouteServiceTests.cs",
+              "ToolTip": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\RouteServiceTests.cs",
+              "RelativeToolTip": "..\\FastX-BusTicketBooking\\Services\\RouteServiceTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:52:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeatServiceTests.cs",
+              "DocumentMoniker": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\SeatServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FastX-BusTicketBooking\\Services\\SeatServiceTests.cs",
+              "ToolTip": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\SeatServiceTests.cs",
+              "RelativeToolTip": "..\\FastX-BusTicketBooking\\Services\\SeatServiceTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:46:59.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefundServiceTests.cs",
+              "DocumentMoniker": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\RefundServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FastX-BusTicketBooking\\Services\\RefundServiceTests.cs",
+              "ToolTip": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\RefundServiceTests.cs",
+              "RelativeToolTip": "..\\FastX-BusTicketBooking\\Services\\RefundServiceTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:41:48.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentServiceTests.cs",
+              "DocumentMoniker": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\PaymentServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FastX-BusTicketBooking\\Services\\PaymentServiceTests.cs",
+              "ToolTip": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\PaymentServiceTests.cs",
+              "RelativeToolTip": "..\\FastX-BusTicketBooking\\Services\\PaymentServiceTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:40:53.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusServiceTests.cs",
+              "DocumentMoniker": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\BusServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FastX-BusTicketBooking\\Services\\BusServiceTests.cs",
+              "ToolTip": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\BusServiceTests.cs",
+              "RelativeToolTip": "..\\FastX-BusTicketBooking\\Services\\BusServiceTests.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T17:39:36.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingServiceTests.cs",
+              "DocumentMoniker": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\BookingServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FastX-BusTicketBooking\\Services\\BookingServiceTests.cs",
+              "ToolTip": "C:\\FastX-BusTicketBooking\\FastX-BusTicketBooking\\Services\\BookingServiceTests.cs",
+              "RelativeToolTip": "..\\FastX-BusTicketBooking\\Services\\BookingServiceTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:39:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
